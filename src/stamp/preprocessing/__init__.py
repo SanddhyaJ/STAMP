@@ -53,6 +53,7 @@ supported_extensions = {
     ".svslide",
     ".bif",
     ".qptiff",
+    ".kfb"
 }
 
 _logger = logging.getLogger("stamp")

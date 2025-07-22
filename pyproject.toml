@@ -31,7 +31,7 @@ dependencies = [
     "numpy>=2.2.2",
     "opencv-python>=4.10.0.84",
     "openpyxl>=3.1.5",
-    "openslide-bin>=4.0.0.8",
+    "openslide-bin @ file:///app/openslide",
     "openslide-python>=1.4.2",
     "packaging>=24.2",
     "pandas>=2.2.3",
